@@ -220,7 +220,6 @@ Create a pdf or print the pay slip using `Print` button. The dialog box will pop
 Select a tuple from data grid and press `Delete` to remove that employee from the database.
 <!-- gif -->
 ![delete](demo/delete.gif)
-![deleteVideo](demo/deletevideo.mp4)
 
 <br/>
 
