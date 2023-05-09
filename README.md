@@ -77,7 +77,7 @@ Store, manage and create database of the employees based on their payroll using 
       * [Pay Slip](#pay-slip-1)
       * [Print](#print-1)
       * [Delete](#delete-1)
-      * [Search](#search-1)
+      * [Search](#search)
       * [Refresh](#refresh-1)
       * [Reset](#reset-1)
       * [Exit](#exit-1)
