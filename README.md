@@ -6,11 +6,11 @@ Store, manage and create database of the employees based on their payroll using 
 
 ## Table of Contents
 
-### [Prerequisites](#prerequisites)
+### [Prerequisites](#prerequisites-1)
 
-### [Tech](#tech)
+### [Tech](#tech-1)
 
-### [Documentation](#documentation)
+### [Documentation](#documentation-1)
 
 * #### [Create Database in MySQL](#create-database-in-mysql-1)
 
