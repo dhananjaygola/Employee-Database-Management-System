@@ -62,8 +62,6 @@ Store, manage and create database of the employees based on their payroll using 
 
 * #### [Exit](#exit-1)
 
-### [Badges](#badges-1)
-
 <br/>
 
 ## Prerequisites
@@ -240,6 +238,3 @@ To empty all textboxes of the form at once, press `Reset`.
 Dailog asks for confirmation to close the application on `Exit`.
 <!-- gif -->
 
-<br/>
-
-## Badges
