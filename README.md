@@ -69,11 +69,11 @@ Store, manage and create database of the employees based on their payroll using 
 ## Prerequisites<p style='float:right'>![Prerequisites](https://skillicons.dev/icons?i=visualstudio,net,mysql&theme=light)</p>
 Make sure you have installed all of the following prerequisites on your development machine :
 
-* **<p style='color:#ba7cfc'>Visual Studio 2022</p>** - Download & install Desktop development with C++ and .Net desktop development workloads.
+* **<div color="#ba7cfc">Visual Studio 2022</div>** - Download & install Desktop development with C++ and .Net desktop development workloads.
 
-* **<p style='color:#8e74fc'>.NET Framework 4.8.1 Developer Pack</p>** - The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.
+* **<div color="#8e74fc">.NET Framework 4.8.1 Developer Pack</div>** - The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.
 
-* **<p style='color:#74a6fc'>MySQL Community (GPL)</p>** - Download MSI installer and install full MySQL tools that includes server, shell and workbench.
+* **<div color="#74a6fc">MySQL Community (GPL)</div>** - Download MSI installer and install full MySQL tools that includes server, shell and workbench.
 
 <br/>
 
@@ -87,7 +87,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Documentation
 
-@@ There@@ is a lot of stuff to understand so that you have the application running on the development machine. Following are the steps that explain both general concepts and development process to run the application in debugging mode :
+There is a lot of stuff to understand so that you have the application running on the development machine. Following are the steps that explain both general concepts and development process to run the application in debugging mode :
 
 ### **Create Database in MySQL**
 * Start `MySQL Server 8.0` as localhost (default Port `3306`) with root user using Command Prompt in directory `C:\Program Files\MySQL\MySQL Server 8.0\bin` :
