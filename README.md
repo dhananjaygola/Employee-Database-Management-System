@@ -87,7 +87,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Documentation
 
-There is a lot of stuff to understand so that you have the application running on the development machine. Following are the steps that explain both general concepts and development process to run the application in debugging mode :
+@@ There@@ is a lot of stuff to understand so that you have the application running on the development machine. Following are the steps that explain both general concepts and development process to run the application in debugging mode :
 
 ### **Create Database in MySQL**
 * Start `MySQL Server 8.0` as localhost (default Port `3306`) with root user using Command Prompt in directory `C:\Program Files\MySQL\MySQL Server 8.0\bin` :
