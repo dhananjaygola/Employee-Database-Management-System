@@ -66,7 +66,7 @@ Store, manage and create database of the employees based on their payroll using 
 
 <br/>
 
-## Prerequisites<p style='float:right'>![Prerequisites](https://skillicons.dev/icons?i=visualstudio,net,mysql&theme=light)</p>
+## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine :
 
 * <span style="color:#ba7cfc">**Visual Studio 2022**</span> - Download & install Desktop development with C++ and .Net desktop development workloads.
