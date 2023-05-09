@@ -15,6 +15,7 @@ Store, manage and create database of the employees based on their payroll using 
       * [Create from scratch](#create-from-scratch)
       * [Method to input data](#method-to-input-data)
       * [Automated fields](#automated-fields)
+      <br/>
    * [**How to use the project**](#how-to-use-the-project)
       * [Total / Add](#total--add)
       * [Update](#update)
