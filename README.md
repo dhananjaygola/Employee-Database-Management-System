@@ -62,6 +62,28 @@ Store, manage and create database of the employees based on their payroll using 
 
 * #### [Exit](#exit-1)
 
+<!--ts-->
+   * [Prerequisites](#prerequisites-1)
+   * [Tech](#tech-1)
+   * [Documentation](#documentation-1)
+      * [Create Database in MySQL](#create-database-in-mysql-1)
+      * [Run/Debug the project](#rundebug-the-project-1)
+      * [Create from scratch](#create-from-scratch-1)
+      * [Method to input data](#method-to-input-data-1)
+      * [Automated fields](#automated-fields-1)
+   * [How to use the project](#how-to-use-the-project-1)
+      * [Total / Add](#total--add-1)
+      * [Update](#update-1)
+      * [Pay Slip](#pay-slip-1)
+      * [Print](#print-1)
+      * [Delete](#delete-1)
+      * [Search](#search-1)
+      * [Refresh](#refresh-1)
+      * [Reset](#reset-1)
+      * [Exit](#exit-1)
+   * [Screenshots](#screenshots-1)
+<!--te-->
+
 <br/>
 
 ## Prerequisites
@@ -252,3 +274,13 @@ To empty all textboxes of the form at once, press `Reset`.
 Dailog asks for confirmation to close the application on `Exit`.
 <!-- gif -->
 ![exit](demo/exit.gif)
+
+<br/>
+
+## Screenshots
+
+<img src="demo/images/screenshot01.png" width="1000" >
+
+<br />
+
+<img src="demo/images/screenshot02.png" width="1000" >
