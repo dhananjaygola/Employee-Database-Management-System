@@ -127,7 +127,7 @@ CREATE TABLE `employeedb`.`employeedb` (
 <br/>
 
 ### **Run/Debug the project**
-* Clone repository or download directory [CppEmployee](CppEmployee/) and open [.sln](CppEmployee/CppEmployee.sln) using Visual Studio.
+* Clone repository or download directory [CppEmployee](CppEmployee/) and open [CppEmployee.sln](CppEmployee/CppEmployee.sln) using Visual Studio.
 * Run project using `Local Windows Debugger`.
 
 
@@ -142,10 +142,10 @@ CREATE TABLE `employeedb`.`employeedb` (
 * Verify Configuration Manager is set for `Debug x64` for both active solution and project.
 * Apply changes to the dialog.
 * Add new item to the project. On the dialog box that appears, in the Visual C++ select UI and add Windows Forms with default name `MyForm.h`.
-* Replace `MyForm.cpp` in project with the [`MyForm.cpp`]() file available in repository.
+* Replace `MyForm.cpp` in project with the [`MyForm.cpp`](CppEmployee/MyForm.cpp) file available in repository.
 * Debug or run the project with `Local Windows Debugger`. Close the windows dialog and restart the project.
 * Add reference to the project, `MySql.Data.dll`.
-* Replace `MyForm.h` in project with the [`MyForm.h`]() file available in repository.
+* Replace `MyForm.h` in project with the [`MyForm.h`](CppEmployee/MyForm.h) file available in repository.
 * Now debug/run the project to view the final build.
 
 <br/>
