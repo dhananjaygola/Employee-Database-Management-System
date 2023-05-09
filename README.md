@@ -69,11 +69,11 @@ Store, manage and create database of the employees based on their payroll using 
 ## Prerequisites<p style='float:right'>![Prerequisites](https://skillicons.dev/icons?i=visualstudio,net,mysql&theme=light)</p>
 Make sure you have installed all of the following prerequisites on your development machine :
 
-* **<font color="#ba7cfc">Visual Studio 2022</font>** - Download & install Desktop development with C++ and .Net desktop development workloads.
+* **<p color="#ba7cfc">Visual Studio 2022</p>** - Download & install Desktop development with C++ and .Net desktop development workloads.
 
-* **<font color="#8e74fc">.NET Framework 4.8.1 Developer Pack</font>** - The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.
+* **<p color="#8e74fc">.NET Framework 4.8.1 Developer Pack</p>** - The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.
 
-* **<font color="#74a6fc">MySQL Community (GPL)</font>** - Download MSI installer and install full MySQL tools that includes server, shell and workbench.
+* **<p color="#74a6fc">MySQL Community (GPL)</p>** - Download MSI installer and install full MySQL tools that includes server, shell and workbench.
 
 <br/>
 
