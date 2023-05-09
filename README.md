@@ -159,7 +159,7 @@ Following  text fields are calculated automatically by the application when the 
 The functionalities of the project are explained below :
 
 ### **Total / Add**
-To create a new entity into database, fill the [required input fields](#method-to-input-data-1) and press `Total/Add` button. The remaining empty fields are automated.
+To create a new entity into database, fill the [required input fields](#method-to-input-data) and press `Total/Add` button. The remaining empty fields are automated.
 <!-- gif -->
 ![total](demo/total.gif)
 
