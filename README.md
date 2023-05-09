@@ -153,8 +153,8 @@ CREATE TABLE `employeedb`.`employeedb` (
 ### **Method to input data**
 The user has to input data in the following fields only :
 
-| Field | <span style="display:block; text-align:center;">Description</span> |
-| :---: | :--- |
+| Field | Description |
+| :---: | :---: |
 | <font color="#4cedc5">Firstname</font> | First name of the employee |
 | <font color="#4cedc5">Surname</font> | Last name of the employee |
 | <font color="#4cedc5">Address</font> | Residence address of the employee |
