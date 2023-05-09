@@ -67,11 +67,11 @@ Store, manage and create database of the employees based on their payroll using 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine :
 
-* <span style="color:#ba7cfc">**Visual Studio 2022**</span> - Download & install Desktop development with C++ and .Net desktop development workloads.
+* **Visual Studio 2022** - Download & install Desktop development with C++ and .Net desktop development workloads.
 
-* **<span color="#8e74fc">.NET Framework 4.8.1 Developer Pack</span>** - The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.
+* **.NET Framework 4.8.1 Developer Pack** - The developer pack is used by software developers to create applications that run on .NET Framework, typically using Visual Studio.
 
-* **<span color="#74a6fc">MySQL Community (GPL)</span>** - Download MSI installer and install full MySQL tools that includes server, shell and workbench.
+* **MySQL Community (GPL)** - Download MSI installer and install full MySQL tools that includes server, shell and workbench.
 
 <br/>
 
@@ -153,21 +153,21 @@ The user has to input data in the following fields only :
 
 | Field | Description |
 | :---: | :---: |
-| <font color="#4cedc5">Firstname</font> | First name of the employee |
-| <font color="#4cedc5">Surname</font> | Last name of the employee |
-| <font color="#4cedc5">Address</font> | Residence address of the employee |
-| <font color="#4cedc5">Gender</font> | Gender of the employee |
-| <font color="#4cedc5">Mobile</font> | Contact number of employee |
-| <font color="#4cedc5">City Weight</font> | City allowance offered by the organization |
-| <font color="#4cedc5">Basic Salary</font> | The core of the salary received by an employee. |
-| <font color="#4cedc5">Over Time</font> | Overtime allowance offered by the organization |
-| <font color="#4cedc5">Other Payment</font> | Bonus or other additional amount |
-| <font color="#4cedc5">Paydate</font> | The date on which salary is credited to employee |
-| <font color="#4cedc5">Tax period</font> | Period for which Tax is required to be paid. |
-| <font color="#4cedc5">IFSC code</font> | Salary account IFSC code |
-| <font color="#4cedc5">Account No</font> | Salary account number |
-| <font color="#4cedc5">PAN Code</font> | PAN code of the employee |
-| <font color="#4cedc5">Search</font> | Search an employee using Firstname |
+| Firstname | First name of the employee |
+| Surname | Last name of the employee |
+| Address | Residence address of the employee |
+| Gender | Gender of the employee |
+| Mobile | Contact number of employee |
+| City Weight | City allowance offered by the organization |
+| Basic Salary | The core of the salary received by an employee. |
+| Over Time | Overtime allowance offered by the organization |
+| Other Payment | Bonus or other additional amount |
+| Paydate | The date on which salary is credited to employee |
+| Tax period | Period for which Tax is required to be paid. |
+| IFSC code | Salary account IFSC code |
+| Account No | Salary account number |
+| PAN Code | PAN code of the employee |
+| Search | Search an employee using Firstname |
 
 <br/>
 
@@ -176,16 +176,16 @@ Following  text fields are calculated automatically by the application when the 
 
 | Field | Description |
 | :---: | :---: |
-| <font color="#fc6d62">Ref No</font> | Random unique number to store an entity |
-| <font color="#fc6d62">Tax</font> | `9% of (City allowance + Basic Salary + Over Time)` |
-| <font color="#fc6d62">Pension</font> | `12% of (City allowance + Basic Salary + Over Time)` |
-| <font color="#fc6d62">Student Loan</font> | `5% of (City allowance + Basic Salary + Over Time)` |
-| <font color="#fc6d62">Health Insurance (HI) Payment</font> | `3% of (City allowance + Basic Salary + Over Time)` |
-| <font color="#fc6d62">Taxable Pay</font> | `Taxable Pay = Tax Period` |
-| <font color="#fc6d62">Pensionable Pay</font> | `Pension * Tax period` |
-| <font color="#fc6d62">Gross Pay</font> | `City allowance + Basic Salary + Over Time + Other Payent` |
-| <font color="#fc6d62">Deductions</font> | `Tax + Pension + Student Loan + HI Payment` |
-| <font color="#fc6d62">Net Pay</font> | `Gross Pay - Deductions` |
+| Ref No | Random unique number to store an entity |
+| Tax | `9% of (City allowance + Basic Salary + Over Time)` |
+| Pension | `12% of (City allowance + Basic Salary + Over Time)` |
+| Student Loan | `5% of (City allowance + Basic Salary + Over Time)` |
+| Health Insurance (HI) Payment | `3% of (City allowance + Basic Salary + Over Time)` |
+| Taxable Pay | `Taxable Pay = Tax Period` |
+| Pensionable Pay | `Pension * Tax period` |
+| Gross Pay | `City allowance + Basic Salary + Over Time + Other Payent` |
+| Deductions | `Tax + Pension + Student Loan + HI Payment` |
+| Net Pay | `Gross Pay - Deductions` |
 
 <br/>
 
