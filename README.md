@@ -127,7 +127,7 @@ CREATE TABLE `employeedb`.`employeedb` (
 <br/>
 
 ### **Run/Debug the project**
-* Clone repository or download directory [CppEmployee]() and open [.sln]() using Visual Studio.
+* Clone repository or download directory [CppEmployee](CppEmployee/) and open [.sln](CppEmployee/CppEmployee.sln) using Visual Studio.
 * Run project using `Local Windows Debugger`.
 
 
