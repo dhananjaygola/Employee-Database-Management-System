@@ -81,7 +81,7 @@ Store, manage and create database of the employees based on their payroll using 
       * [Refresh](#refresh-1)
       * [Reset](#reset-1)
       * [Exit](#exit-1)
-   * [Screenshots](#screenshots-1)
+   * [Screenshots](#screenshots)
 <!--te-->
 
 <br/>
