@@ -6,72 +6,16 @@ Store, manage and create database of the employees based on their payroll using 
 
 ## Table of Contents
 
-### [Prerequisites](#prerequisites-1)
-
-### [Tech](#tech-1)
-
-### [Documentation](#documentation-1)
-
-* #### [Create Database in MySQL](#create-database-in-mysql-1)
-
-    <p></p>
-
-* #### [Run/Debug the project](#rundebug-the-project-1)
-
-    <p></p>
-
-* #### [Create from scratch](#create-from-scratch-1)
-
-    <p></p>
-
-* #### [Method to input data](#method-to-input-data-1)
-
-    <p></p>
-
-* #### [Automated fields](#automated-fields-1)
-
-### [How to use the project](#how-to-use-the-project-1)
-
-* #### [Total / Add](#total--add-1)
-
-    <p></p>
-
-* #### [Update](#update-1)
-
-    <p></p>
-
-* #### [Pay Slip](#pay-slip-1)
-
-    <p></p>
-
-* #### [Print](#print-1)
-
-    <p></p>
-
-* #### [Delete](#delete-1)
-
-    <p></p>
-
-* #### [Refresh](#refresh-1)
-
-    <p></p>
-
-* #### [Reset](#reset-1)
-
-    <p></p>
-
-* #### [Exit](#exit-1)
-
 <!--ts-->
    * [**Prerequisites**](#prerequisites-1)
-   * [Tech](#tech-1)
-   * [Documentation](#documentation-1)
+   * [**Tech**](#tech-1)
+   * [**Documentation**](#documentation-1)
       * [Create Database in MySQL](#create-database-in-mysql-1)
       * [Run/Debug the project](#rundebug-the-project-1)
       * [Create from scratch](#create-from-scratch-1)
       * [Method to input data](#method-to-input-data-1)
       * [Automated fields](#automated-fields-1)
-   * [How to use the project](#how-to-use-the-project-1)
+   * [**How to use the project**](#how-to-use-the-project-1)
       * [Total / Add](#total--add-1)
       * [Update](#update-1)
       * [Pay Slip](#pay-slip-1)
@@ -81,7 +25,7 @@ Store, manage and create database of the employees based on their payroll using 
       * [Refresh](#refresh-1)
       * [Reset](#reset-1)
       * [Exit](#exit-1)
-   * [Screenshots](#screenshots)
+   * [**Screenshots**](#screenshots)
 <!--te-->
 
 <br/>
