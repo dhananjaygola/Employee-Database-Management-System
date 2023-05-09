@@ -94,7 +94,7 @@ There is a lot of stuff to understand so that you have the application running o
 ```cmd
 mysql -u root -p
 ```
-* Create new schema `employeedb` and execute SQL Script to create a table `employeedb` with the reuired fields :
+* Create new schema `employeedb` and execute SQL Script to create a table `employeedb` with the required fields :
 ```sql
 CREATE TABLE `employeedb`.`employeedb` (
   `ID` VARCHAR(10) NOT NULL,
