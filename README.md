@@ -195,24 +195,28 @@ The functionalities of the project are explained below :
 ### **Total / Add**
 To create a new entity into database, fill the [required input fields](#method-to-input-data-1) and press `Total/Add` button. The remaining empty fields are automated.
 <!-- gif -->
+![total](demo/total.gif)
 
 <br/>
 
 ### **Update**
 The user can modify any cell data by selecting a tuple from data grid to view data in fields then make modifications in textbox and press `Update` button.
 <!-- gif -->
+![update](demo/update.gif)
 
 <br/>
 
 ### **Pay Slip**
 Rich textbox is where detailing of the pay amount given is concluded, inlcuding all the tax and insurance deducted. The user can make any corrections in the pay slip at this moment.
 <!-- gif -->
+![payslip](demo/payslip.gif)
 
 <br/>
 
 ### **Print**
 Create a pdf or print the pay slip using `Print` button. The dialog box will pop-up to preview the final document.
 <!-- gif -->
+![print](demo/print.gif)
 
 <br/>
 
@@ -223,19 +227,28 @@ Select a tuple from data grid and press `Delete` to remove that employee from th
 
 <br/>
 
+### **Search**
+Find the employee using firstname. Press `Search` to display data of employee in the data grid.
+<!-- gif -->
+![search](demo/search.gif)
+
+<br/>
+
 ### **Refresh**
 Press `Refresh` to view all the entities after any modifications or changes in database. After search press this button to set data grid to default state.
 <!-- gif -->
+![refresh](demo/refresh.gif)
 
 <br/>
 
 ### **Reset**
 To empty all textboxes of the form at once, press `Reset`.
 <!-- gif -->
+![reset](demo/reset.gif)
 
 <br/>
 
 ### **Exit**
 Dailog asks for confirmation to close the application on `Exit`.
 <!-- gif -->
-
+![exit](demo/exit.gif)
