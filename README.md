@@ -1,6 +1,12 @@
 # Employee Database Management System
 
-<p align="center" width="100%"><img width="320" src="demo/images/meme.png"></p>
+<div align="center">
+  <br/>
+  <a href="demo/images/meme.svg">
+    <img alt="Click to see the source" src="demo/images/meme.svg" />
+  </a>
+  <br/>
+</div>
 
 <p align="center" width="100%"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dhananjaygola/Employee-Database-Management-System?color=gree&logo=Github"> &nbsp;<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/dhananjaygola/Employee-Database-Management-System?logo=Github"> &nbsp;<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dhananjaygola/Employee-Database-Management-System"> &nbsp;<img alt="dotnet version" src="https://img.shields.io/badge/dotnet%20framework-v4.8.1-%23a67dff"> &nbsp;<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dhananjaygola/Employee-Database-Management-System?logo=c%2B%2B"> &nbsp;<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dhananjaygola/Employee-Database-Management-System?logo=visualstudio"></p>
 
