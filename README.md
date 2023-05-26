@@ -1,6 +1,6 @@
 # Employee Database Management System
 
-<p align="center" width="100%"><img width="30%" src="demo/images/meme.png"></p>
+<p align="center" width="100%"><img width="35%" src="demo/images/meme.png"></p>
 Store, manage and create database of the employees based on their payroll using GUI application with SQL database.
 
 <br/>
