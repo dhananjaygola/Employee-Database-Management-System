@@ -2,7 +2,7 @@
 
 <p align="center" width="100%"><img width="35%" src="demo/images/meme.png"></p>
 
-<p align="center" width="100%"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dhananjaygola/Employee-Database-Management-System?color=gree&logo=Github"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/dhananjaygola/Employee-Database-Management-System?logo=Github"></p>
+<p align="center" width="100%"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dhananjaygola/Employee-Database-Management-System?color=gree&logo=Github"> &nbsp;<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/dhananjaygola/Employee-Database-Management-System?logo=Github"> &nbsp;<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dhananjaygola/Employee-Database-Management-System"> &nbsp;<img alt="dotnet version" src="https://img.shields.io/badge/dotnet%20framework-v4.8.1-%23a67dff"> &nbsp;<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dhananjaygola/Employee-Database-Management-System?logo=c%2B%2B"></p>
 
 Store, manage and create database of the employees based on their payroll using GUI application with SQL database.
 
