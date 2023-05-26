@@ -1,6 +1,6 @@
 # Employee Database Management System
 
-![GitHub-Mark-Light](demo/images/meme.png#gh-dark-mode-only)![GitHub-Mark-Dark](demo/images/meme.png#gh-light-mode-only)
+<p align="center" width="100%"><img width="30%" src="demo/images/meme.png"></p>
 Store, manage and create database of the employees based on their payroll using GUI application with SQL database.
 
 <br/>
