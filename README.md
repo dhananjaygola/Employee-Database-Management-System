@@ -21,7 +21,7 @@ Store, manage and create database of the employees based on their payroll using 
       * [Create from scratch](#create-from-scratch)
       * [Method to input data](#method-to-input-data)
       * [Automated fields](#automated-fields)
-   * [**How to use the project**](#how-to-use-the-project)
+   * [**How to use the project**](#how-to-use-the-project) :red_circle: **Demo**:white_check_mark:
       * [Total / Add a new record](#total--add)
       * [Update an existing tuple](#update)
       * [Create Pay Slip of record](#pay-slip)
